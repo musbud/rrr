@@ -1,8 +1,9 @@
 project:
   type: website
+  output-dir: docs  # Wichtig für GitHub Pages!
 
 website:
-  title: "rrr"
+  title: "test"
   navbar:
     left:
       - href: index.qmd
