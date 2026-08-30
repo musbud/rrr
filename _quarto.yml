@@ -3,7 +3,7 @@ project:
   output-dir: docs  # Wichtig für GitHub Pages!
 
 website:
-  title: "test"
+  #title: "test"
   navbar:
     left:
       - href: index.qmd
